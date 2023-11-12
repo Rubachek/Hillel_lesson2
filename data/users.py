@@ -53,7 +53,7 @@ class UserCreator:
         self.__dict__.update(user_config)
 
     @classmethod
-    def registration_users(cls, data_path='.'):
+    def registration_users(cls, data_path='../data'):
         """Method to create registration user only.
         Additional methods could be created for happy path and sad path testing cases"""
         path = os.path.join(data_path, "sample_users_with_id.json")
