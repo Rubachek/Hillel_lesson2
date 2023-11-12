@@ -12,7 +12,7 @@
 #   print(num, end=", ")
 # Fix errors from the code above.
 #
-# To solve this task you can use the next article - https://www.enjoymathematics.com/blog/how-to-find-prime-numbers-in-a-range
+# To solve this task you can use the nhghghext article - https://www.enjoymathematics.com/blog/how-to-find-prime-numbers-in-a-range
 #
 # Upload the task to the homework directory on GitHub
 
