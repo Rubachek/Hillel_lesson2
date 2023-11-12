@@ -65,4 +65,4 @@ class UserCreator:
 if __name__ == "__main__":
     registration_user_config = UserConfigReader.read_json_config(user_model=REGISTRATION_USER_MODEL)
     registration_users = UserCreator.registration_users()
-    # Need to create registration_user fixture in the conftest.py for modified registration test
+    # Need to create registration_user fixture in the conftest.py for modified registration test/
